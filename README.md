@@ -16,4 +16,4 @@ The player makes choices to explore different paths and outcomes.
 1. Make sure you have **Python 3** installed on your computer.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/adventure-game.git
+   git clone https://github.com/Elboraeyy/adventure-game.git
